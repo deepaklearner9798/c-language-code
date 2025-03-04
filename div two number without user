@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+int num1,num2,div;
+num1=10;
+num=20;
+sub=num1/num2;
+printf("%d/%d=%d",num1,num2,div);
+return 0;
+}
