@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+  intx;
+  x=5
+  printf("%d",x);
+  x=9;
+  printf("%d",x);
+  return 0;
+}
