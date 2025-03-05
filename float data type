@@ -1,0 +1,9 @@
+#include<stdio.h>
+int mian()
+{
+float x=3.14;
+float y=7.12;
+float x=x/y;
+printf("%f",x);
+return 0;
+}
